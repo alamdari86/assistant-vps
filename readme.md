@@ -11,7 +11,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/assistant-vps/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/alamdari86/assistant-vps/master/install.sh)
 ```
 
 ## 💫 Features
